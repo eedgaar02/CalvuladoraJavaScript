@@ -28,7 +28,7 @@ body{
     background-color: bisque;
 }
 .btn0{
-    grid-column: 1/4;
+    grid-column: 1/3;
     grid-row: 7;
 }
 .btn1{
@@ -94,4 +94,8 @@ body{
 .btnBorrar{
     grid-column: 1;
     grid-row: 3;
+}
+.btnDecimal{
+    grid-column: 3;
+    grid-row: 7;
 }
